@@ -1,0 +1,22 @@
+.userBtn {
+    border: 1px solid;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+.createUserBtn {
+    border: 1px solid;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 5px;
+    color: rgba(44,44,175,0.7411764705882353);
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.inputStyle{
+    border-radius: 5px;
+}
+.tableHead{
+    color:rgba(44,44,175,0.7411764705882353);
+}
